@@ -100,8 +100,9 @@
 
 <a> </a>
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrham17&show_icons=true&locale=en&layout=compact" alt="mrham17" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrham17&show_icons=true&locale=en" alt="mrham17" />
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrham17&show_icons=true&locale=en&layout=compact" alt="mrham17" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrham17&show_icons=true&locale=en" alt="mrham17" />
+</p>
 <a> </a>
+<p>&nbsp; 
 <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=mrham17&" alt="mrham17" /></p>
