@@ -105,4 +105,4 @@
 </p>
 <a> </a>
 <p>&nbsp; 
-<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=mrham17&" alt="mrham17" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mrham17&" alt="mrham17" /></p>
