@@ -60,8 +60,8 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/> </a> 
 
-<a href="https://www.flutter.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="38" height="38"/> </a> 
+<a href="https://github.com/dart-lang" target="_blank" rel="noreferrer"> 
+<img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="Dart" width="37" height="37"/> </a> 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/> </a> 
@@ -93,6 +93,9 @@
 
 <a href="https://en.wikipedia.org/wiki/Android_(operating_system)" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Android_robot_%282014-2019%29.svg/800px-Android_robot_%282014-2019%29.svg.png" alt="android" width="41" height="41"/> </a> 
+
+<a href="https://www.flutter.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="38" height="38"/> </a> 
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
