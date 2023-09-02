@@ -60,6 +60,9 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/> </a> 
 
+<a href="https://www.flutter.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="38" height="38"/> </a> 
+
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/> </a> 
 
@@ -68,9 +71,6 @@
 <a target="_blank" rel="noreferrer"> </a>
 
 
-
-<a href="https://www.developer.android.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="51" height="51"/> </a> 
 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
@@ -87,9 +87,12 @@
 <a href="" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">  
 
-<img src="https://images.sftcdn.net/images/t_app-logo-xl,f_auto,dpr_2/p/4fc70006-96d2-11e6-b283-00163ec9f5fa/2446483752/code-blocks-icon%20(34).png" alt="VS Code" width="38" height="38">  
+<img src="https://images.sftcdn.net/images/t_app-logo-xl,f_auto,dpr_2/p/4fc70006-96d2-11e6-b283-00163ec9f5fa/2446483752/code-blocks-icon%20(34).png" alt="Code Blocks" width="38" height="38">  
 
-<img src="https://netbeans.apache.org/images/touch-icon-iphone-retina.png" alt="VS Code" width="40" height="40">
+<img src="https://netbeans.apache.org/images/touch-icon-iphone-retina.png" alt="Apache NetBeans" width="40" height="40">
+
+<a href="https://en.wikipedia.org/wiki/Android_(operating_system)" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Android_robot_%282014-2019%29.svg/800px-Android_robot_%282014-2019%29.svg.png" alt="android" width="41" height="41"/> </a> 
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
