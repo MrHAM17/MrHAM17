@@ -110,5 +110,3 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrham17&show_icons=true&locale=en" alt="mrham17" />
 </p>
 <a> </a>
-<p>&nbsp; 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mrham17&" alt="mrham17" /></p>
