@@ -89,7 +89,7 @@
 
 <img src="https://images.sftcdn.net/images/t_app-logo-xl,f_auto,dpr_2/p/4fc70006-96d2-11e6-b283-00163ec9f5fa/2446483752/code-blocks-icon%20(34).png" alt="Code Blocks" width="38" height="38">  
 
-<img src="https://netbeans.apache.org/images/touch-icon-iphone-retina.png" alt="Apache NetBeans" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Apache NetBeans" width="40" height="40">
 
 <a href="https://en.wikipedia.org/wiki/Android_(operating_system)" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Android_robot_%282014-2019%29.svg/800px-Android_robot_%282014-2019%29.svg.png" alt="android" width="41" height="41"/> </a> 
