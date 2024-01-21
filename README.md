@@ -13,7 +13,9 @@
 
 - 📝 Future plans are **Mastering the Development & CS Fundamentals Perfectly !**
 
--  🚀 How to reach me **harshminde1@gmail.com**
+- 🌈 Checkout my portfolio **https://portfolio-harsh-minde.web.app/**
+
+- 🚀 How to reach me **harshminde1@gmail.com**
 
 <a> </a>
 
