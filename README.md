@@ -1,17 +1,17 @@
 <h1 align="center">Hi,  I'm Harsh Anil Minde.</h1>
-<h3 align="center">I'm a Programing Enthusiastic & Competitive Programmer from India.</h3>
+<h3 align="center">Exploring Software Engineering with a Focus on Problem Solving and Impactful Solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrham17&label=Profile%20views&color=0e75b6&style=flat" alt="mrham17" /> </p>
 
 <h3 align="left">About me</h3>
 
-- 🌱 I’m currently working on **My Problem solving & Analytical Skills with CP.**
+- 🌱 I’m currently working on **The Core App Development.**
 
-- 🔭 I’m currently exploring **The Core App Development.**
+- 🔭 I’m currently refining my **Problem solving & Analytical Skills with CP.**
 
 - 👨‍💻 I'm interested in **Hackathons, Coding Events, Tech & lot...**
 
-- 📝 Future plans are **Mastering the Development & CS Fundamentals Perfectly !**
+- 📝 On a journey to **Delve into the Intricacies of Software Engineering !**
 
 - 🌈 Checkout my portfolio **https://portfolio-harsh-minde.web.app/**
 
