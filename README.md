@@ -1,5 +1,5 @@
 <h1 align="center">Hi,  I'm Harsh Anil Minde.</h1>
-<h3 align="center">Exploring Software Engineering with a Focus on Problem Solving and Impactful Solutions.</h3>
+<h3 align="center">Exploring Software Engineering with a Focus on Problem Solving & Impactful Solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrham17&label=Profile%20views&color=0e75b6&style=flat" alt="mrham17" /> </p>
 
