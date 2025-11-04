@@ -3,115 +3,163 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrham17&label=Profile%20views&color=0e75b6&style=flat" alt="mrham17" /> </p>
 
-<h3 align="left">About me</h3>
+<h2 align="left">About me:</h2>
 
-- 🌱 I’m currently working on **The Core App Development.**
+- 🎓 B.E. Computer Engineering 2021-25 — **Graduated from Mumbai University.**
 
-- 🔭 I’m currently refining my **Problem solving & Analytical Skills with CP.**
+- 💼 Actively seeking full-time roles  — as **Android Developer / Software Developer / SDE.**
 
-- 👨‍💻 I'm interested in **Hackathons, Coding Events, Tech & lot...**
+- 📱 Built production-level Android apps  — with Strong understanding of **Modern Software  Engineering.**
 
-- 📝 On a journey to **Delve into the Intricacies of Software Engineering !**
+- 👨‍💻 I'm Interested — in **Hackathons, Coding Events, Technology Innovation.**
 
-- 🌈 Checkout my portfolio **https://portfolio-harsh-minde.web.app/**
+- 📝 On a journey — to **Delve into the Intricacies of Software Engineering !**
 
-- 🚀 How to reach me **harshminde1@gmail.com**
+- 🌈 Checkout — my portfolio **https://portfolio-harsh-minde.web.app/**
+
+- 📧 Reach me — at **harshminde1@gmail.com**
 
 <a> </a>
 
-<h3 align="left">Connect with me</h3>
+
+<!-- ***********************************************  Connect with me   *********************************************** -->
+<!-- ***********************************************  Connect with me   *********************************************** -->
+
+<h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://auth.geeksforgeeks.org/user/mr_ham_17" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mr_ham_17" height="44" width="44" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mr_ham_17" target="_blank">
+<img align="center" src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/gfg.png" alt="gfg" height="44" width="44" /></a>
 
-<a href="https://www.hackerearth.com/@harsh minde." target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@harsh minde." height="34" width="44" /></a>
+<a href="https://www.hackerearth.com/@Mr_HAM_Star/" target="_blank">
+<img align="center" src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/hackerearth.png" alt="hackerearth" height="34" width="44" /></a>
 
-<a href="https://www.hackerrank.com/@mr_ham_star" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mr_ham_star" height="34" width="44" /></a>
+<a href="https://www.hackerrank.com/profile/Mr_HAM_Star" target="_blank">
+<img align="center" src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/hackerrank.png" alt="hackerrank" height="34" width="44" /></a>
 
-<a href="https://www.leetcode.com/mr_ham_star" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr_ham_star" height="44" width="44" /></a>
+<a href="https://www.leetcode.com/mr_ham_star" target="_blank">
+<img align="center" src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/leetcode.png" alt="leetcode" height="44" width="44" /></a>
 
-<a href="https://www.codechef.com/users/mr_ham_star" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mr_ham_star" height="44" width="44" /></a>
+<a href="https://www.codechef.com/users/mr_ham_star" target="_blank">
+<img align="center" src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/codechef.png" alt="codechef" height="44" width="44" /></a>
 
-<a href="https://codeforces.com/profile/mr_ham_star" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mr_ham_star" height="44" width="44" /></a>
+<a href="https://codeforces.com/profile/mr_ham_star" target="_blank">
+<img align="center" src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/codeforces.png" alt="codeforces" height="44" width="44" /></a>
 
 <a> </a>
 
-<a href="https://linkedin.com/in/harsh minde." target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh minde." height="36" width="36" /></a>
+<a href="https://www.linkedin.com/in/harsh-minde-268545230/" target="_blank">
+<img align="center" src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/linkedin.png" alt="linkedin" height="34" width="34" /></a>
 
-<a href="https://instagram.com/mr_ham_17" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_ham_17" height="36" width="36" /></a>
+<a href="https://instagram.com/mr_ham_17" target="_blank">
+<img align="center" src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/instagram.png" alt="instagram" height="44" width="44" /></a>
 
 </p>
+<a> </a>
+
+<!-- ***********************************************  Languages   *********************************************** -->
+<!-- ***********************************************  Languages   *********************************************** -->
+
+<h2 align="left">Tech Stack:</h2>
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/c.png" alt="c" width="42" height="42" /></a>
+
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/c%2B%2B.png" alt="c++" width="42" height="42" /></a>
+
+<a href="https://dart.dev/" target="_blank" rel="noreferrer">
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/dart.png" alt="dart" width="37" height="37" /></a>
+
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/java.png" alt="java" width="42" height="42" /></a>
+
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/kotlin.png" alt="kotlin" width="42" height="42" /></a>
 
 <a> </a>
 
-<h3 align="left">Tech Stack</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/> </a> 
+<!-- ***********************************************  Android / Frameworks  *********************************************** -->
+<!-- ***********************************************  Android / Frameworks   *********************************************** -->
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42"/> </a> 
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/android.png" alt="android" width="41" height="41" /></a>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/> </a> 
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/flutter.png" alt="flutter" width="38" height="38" /></a>
 
-<a href="https://github.com/dart-lang" target="_blank" rel="noreferrer"> 
-<img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="Dart" width="37" height="37"/> </a> 
+<a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/jetpack%20compose.png" alt="Jetpack Compose" width="41" height="41" /></a>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/> </a> 
+<a> </a>
 
-
-
-<a target="_blank" rel="noreferrer"> </a>
-
-
+<!-- ***********************************************  Database / Backend   *********************************************** -->
+<!-- ***********************************************  Database / Backend   *********************************************** -->
 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/sqlite.png" alt="sqlite" width="40" height="40" /></a> 
 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="41" height="41"/> </a> 
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/firebase.png" alt="firebase" width="41" height="41" /></a> 
 
+<a href="https://realm.github.io/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/realm.png" alt="realm" width="41" height="41" /></a> 
 
+<a href="https://developer.android.com/training/data-storage/room" target="_blank" rel="noreferrer">
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/android%20room.png" alt="android_room" width="42" height="42" /></a>
 
-<a target="_blank" rel="noreferrer"> </a>
+<a href="https://square.github.io/retrofit/" target="_blank" rel="noreferrer">
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/retrofit.png" alt="retrofit" width="42" height="42" /></a>
 
+<a href="https://ktor.io/" target="_blank" rel="noreferrer">
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/ktor.png" alt="ktor" width="42" height="42" /></a>
 
+<a> </a>
 
-<a href="" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">  
+<!-- ***********************************************  Tools   *********************************************** -->
+<!-- ***********************************************  Tools   *********************************************** -->
 
-<img src="https://images.sftcdn.net/images/t_app-logo-xl,f_auto,dpr_2/p/4fc70006-96d2-11e6-b283-00163ec9f5fa/2446483752/code-blocks-icon%20(34).png" alt="Code Blocks" width="38" height="38">  
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/vs_code.png" alt="vs_code" width="40" height="40" /></a>  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Apache NetBeans" width="40" height="40">
+<a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer">
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/codeblocks.png" alt="codeblocks" width="38" height="38" /></a>  
 
-<a href="https://en.wikipedia.org/wiki/Android_(operating_system)" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Android_robot_%282014-2019%29.svg/800px-Android_robot_%282014-2019%29.svg.png" alt="android" width="41" height="41"/> </a> 
+<a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/apache%20netBeans.png" alt="apache_netBeans" width="40" height="40" /></a>
 
-<a href="https://www.flutter.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="38" height="38"/> </a> 
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/android%20studio.png" alt="android_studio" width="42" height="40" /></a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/git.png" alt="git" width="40" height="40" /></a> 
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" width="40" height="40">
+<a href="https://github.com/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/MrHAM17/MrHAM17/blob/main/snap/github.png" width="40" height="40" /></a>
+
 </p>
 
 <a> </a>
 
-<p><img align="centre" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=mrham17&show_icons=true&locale=en&layout=compact" alt="mrham17" />
+<!-- ***********************************************  Cards   *********************************************** -->
+<!-- ***********************************************  Cards   *********************************************** -->
+
+<h2 align="left"></h2>
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mrham17&show_icons=true&count_private=true&cache_seconds=1800&theme=default&hide_border=true" height="200" alt="GitHub Stats" />
   
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrham17&show_icons=true&locale=en" alt="mrham17" />
-</p>
-<a> </a>
-<p>&nbsp; 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mrham17&" alt="mrham17" /></p>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrham17&layout=compact&count_private=true&cache_seconds=1800&theme=default&hide_border=true" height="200" alt="Top Languages" />
+  
+  <a> </a>
+  <!-- Profile Summary Cards  -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrham17&theme=default" height="200" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrham17&theme=default" height="200" alt="Most Commit Language" />
+  
+  <a> </a>
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrham17&theme=default" height="200" alt="GitHub Streak" />
+
+</div>
