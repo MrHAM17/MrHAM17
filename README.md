@@ -15,11 +15,11 @@
 
 - 📝 On a journey — to **Delve into the Intricacies of Software Engineering !**
 
-- 🌈 Checkout — my [Portfolio](https://portfolio-harsh-minde.web.app/)
+- 🌈 Checkout — my **[Portfolio](https://portfolio-harsh-minde.web.app/)**
 
 - 📧 Reach me — at **harshminde1@gmail.com**
 
-- 📄 Resume — [Take a Look — Open to Roles & Referrals 😊](https://github.com/MrHAM17/MrHAM17/blob/main/Harsh_Minde_Resume.pdf)
+- 📄 Resume — **[Take a Look — Open to Roles & Referrals 😊](https://github.com/MrHAM17/MrHAM17/blob/main/Harsh_Minde_Resume.pdf)**
 
 <a> </a>
 
