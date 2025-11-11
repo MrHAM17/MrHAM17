@@ -19,7 +19,7 @@
 
 - 📧 Reach me — at **harshminde1@gmail.com**
 
-- 📄 Resume — **[Take a Look — Open to Roles & Referrals 😊](https://github.com/MrHAM17/MrHAM17/blob/main/Harsh_Minde_Resume.pdf)**
+- 📄 Resume — **[Take a Look — Open to Roles & Referrals 😊](https://drive.google.com/drive/folders/1HFzq9lhJxTLPF4sgzoZaDMQwYTZB9ZhF)**
 
 <a> </a>
 
